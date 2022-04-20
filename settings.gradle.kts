@@ -7,4 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Nevernote"
-include ':app'
+include (":app")
